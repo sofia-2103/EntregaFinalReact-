@@ -1,6 +1,6 @@
 # Proyecto React - SIBO Market
 
-Este es tu proyecto creado con Vite + React.
+proyecto creado con Vite + React.
 Incluye:
 
 - Navbar
@@ -9,6 +9,3 @@ Incluye:
 - Bootstrap
 - Bootstrap Icons
 
-Para iniciar el proyecto: 
-npm install
-npm run dev
